@@ -1394,7 +1394,7 @@ task.defer(function()
 local payload = {
 	username = "uNC Bot",
 	avatar_url = "https://www.createwithswift.com/content/images/size/w2000/2025/06/createwithswift.com-crafting-liquid-glass-app-icons-with-icon-composer.jpg",
-	content = "**Executor Evaluation Completed**\nTest your Executor uNC [here](<https://raw.githubusercontent.com/glyphaj1/uNC_Test/refs/heads/main/uNC_Checker.luau>)`",
+	content = "**Executor Evaluation Completed**\nTest your Executor uNC [here](<https://raw.githubusercontent.com/glyphaj1/uNC_Test/refs/heads/main/uNC_Checker.luau>)",
 	embeds = {{
 		title = "Executor Compatibility Report",
 		description = "**Executor Verdict:** " .. (
